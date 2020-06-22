@@ -1,0 +1,2 @@
+C:\Ryan\grpc\umi_proto_factory\PlatformDemo\x64\Debug\PlatformDemo.exe
+C:\Ryan\grpc\umi_proto_factory\PlatformDemo\x64\Debug\PlatformDemo.pdb
