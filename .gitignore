@@ -1,5 +1,6 @@
 # SpatialOS project build directory
 build/
+x64/
 
 # Cache and other project metadata
 .spatialos/
